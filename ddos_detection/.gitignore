@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.backup
+*.bak
+*.orig
+*.swp
+*.swo
+*.egg-info/
+venv/
+.env
+
+# VS Code
+.vscode/
